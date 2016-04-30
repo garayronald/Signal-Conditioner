@@ -1,0 +1,35 @@
+.thing {
+  padding: 14px;
+  font-size: large;
+}
+
+md-toast.md-success-toast-theme {
+    background-color: green;
+}
+
+md-toast.md-error-toast-theme {
+    background-color: red;
+}
+
+.line-height-72 {
+    line-height: 72px;
+}
+
+.font-size-72 {
+    font-size: 72px;
+}
+
+.light-blue-fg {
+    color: #03A9F4!important;
+}
+
+.padding-top-9{
+	padding-top: 9px;
+}
+
+.reading-display{
+	text-align: -webkit-right;
+	padding-right: 10px;
+	color: #03A9F4;
+	font-size: 22px;
+}
