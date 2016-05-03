@@ -173,7 +173,7 @@
         calcApiReading(value) {
             var dataR = value;
             if(dataR){
-                var reading = ''+dataR[2]+dataR[3]+dataR[0]+dataR[1];
+                var reading = ''+dataR[0]+dataR[1]+dataR[2]+dataR[3];
                 var readingValue = parseInt(reading, 16);
                 return readingValue;
             }
